@@ -4,4 +4,4 @@
 
 Change Branch to view assignments
 
-Link of Transcript Repo: https://github.com/panaverse/learn-typescript
+Link of Typescript Repo: https://github.com/panaverse/learn-typescript
