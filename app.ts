@@ -1,3 +1,5 @@
 let message = "Hello World";
 
-console.loger(message);
+message = 6;
+
+console.log(message);
