@@ -23,6 +23,7 @@
     "@types/node": "^18.11.19"
   },
   "dependencies": {
+    "chalk": "^5.2.0",
     "inquirer": "^9.1.4"
   }
 }
