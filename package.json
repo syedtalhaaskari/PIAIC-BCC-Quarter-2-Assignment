@@ -2,6 +2,7 @@
   "name": "assignments",
   "version": "1.0.0",
   "description": "Change Branch to view assignments",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
